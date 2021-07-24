@@ -31,7 +31,7 @@ $ yarn build
 
 #### Reporte bugs ou Features Request
 
-Porfavor use o [issue tracker](https://github.com/JohanDev6/Discord-Clone/issues) para reportar bugs ou fazer push requests.
+Porfavor use o [issue tracker](https://github.com/JohanDev6/GetLearn/issues) para reportar bugs ou fazer push requests.
 
 #### Developing
 
